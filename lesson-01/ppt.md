@@ -2,20 +2,28 @@ title: 零基础前端编程学习
 speaker: 陈海峰
 url: https://github.com/ksky521/nodeppt
 transition: cards
-files: /js/demo.js,/css/demo.css
+headFiles: ppt.js,ppt.css
+theme: light
+
 
 [slide]
 
-# 零基础前端编程学习
-## 演讲者：陈海峰
+##### 零基础前端编程课程
+
+-----
+# 行业前景与前端分析
+-----
+
+##### [传授人: 陈海峰]
 
 [slide]
  <!-- {:&.flexbox.vleft} -->
 # 目录
-## 个人经历
-## 行业前景
-## 前端分析
-## 课程介绍
+
+* 行业前景 {:&.moveIn}
+* 个人经历 
+* 前端分析
+* 课程介绍
 
 [slide style="background-image:url('/img/bg1.png')"]
 ## 个人经历
